@@ -1,6 +1,4 @@
-﻿# Editado por Manuel de Jesus Puente Martinez el jueves 25 de septiembre
-
-function Validar-Archivo {
+﻿function Validar-Archivo {
     param (
         [string]$Ruta
     )
