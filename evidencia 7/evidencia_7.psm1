@@ -1,3 +1,5 @@
+# Editado por Manuel de Jesus Puente Martinez el jueves 25 de septiembre
+
 # ============================================================================
 # = Evidencia 7: Automatización de tareas forenses con PowerShell en Windows =
 # ============================================================================
@@ -285,4 +287,5 @@ function Get-FullForensicAnalysis {
 
     Write-Host "=== Análisis forense completo finalizado ===" -ForegroundColor Cyan
     return $correlacion
+
 }
